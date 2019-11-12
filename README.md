@@ -74,8 +74,12 @@ CREDENTIALS = (AWS_KEY_ID = 'xxxxxx' AWS_SECRET_KEY = '******');
 
 	
 https://medium.com/hashmapinc/snowflakes-cloud-data-warehouse-what-i-learned-and-why-i-m-rethinking-the-data-warehouse-75a5daad271c
+
+
 https://github.com/snowflakedb/snowflake-sqlalchemy
 	
+
+https://www.youtube.com/watch?v=QMeYjd2A0Nc
 
 
 
