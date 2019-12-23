@@ -9,6 +9,13 @@
   https://docs.aws.amazon.com/redshift/latest/gsg/samples/tickitdb.zip
   
 # DataModel under dev database 
+
+   	Cluster: Choose examplecluster
+	Database name: Enter dev
+	Database user: Enter awsuser
+	Database password: Enter password that you specified when you created the cluster
+
+Then choose Connect to database.
   ```
   
   create table users(
