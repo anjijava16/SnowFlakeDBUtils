@@ -16,6 +16,34 @@
 		PORT: 5439
 		DB: dev
 		Jar file Name: RedShiftJDBC541.jar 
+		
+#  Creating an IAM Role :
+```
+For any operation that accesses data on another AWS resource, your cluster needs permission to access the resource and the data on the resource on your behalf. An example is using a COPY command to load data from Amazon S3. You provide those permissions by using AWS Identity and Access Management (IAM). You do so either through an IAM role that is attached to your cluster or by providing the AWS access key for an IAM user that has the necessary permissions.
+
+To best protect your sensitive data and safeguard your AWS access credentials, we recommend creating an IAM role and attaching it to your cluster. For more information about providing access permissions, see Permissions to Access Other AWS Resources.
+
+In this step, you create a new IAM role that enables Amazon Redshift to load data from Amazon S3 buckets. In the next step, you attach the role to your cluster.
+
+
+#To Create an IAM Role for Amazon Redshift
+i. Sign in to the AWS Management Console and open the IAM console at https://console.aws.amazon.com/iam/.
+ii. In the navigation pane, choose Roles.
+iii.Choose Create role.
+iv.In the AWS Service group, choose Redshift.
+v.Under Select your use case, choose Redshift - Customizable then choose Next: Permissions.
+vi.On the Attach permissions policies page, choose AmazonS3ReadOnlyAccess. You can leave the default setting for Set permissions boundary. Then choose Next: Tags.
+vii. The Add tags page appears. You can optionally add tags. Choose Next: Review.
+viii.For Role name, enter a name for your role. For this tutorial, enter myRedshiftRole.
+Review the information, and then choose Create Role.
+
+Choose the role name of the role you just created.
+
+ix) Copy the Role ARN to your clipboard—this value is the Amazon Resource Name (ARN) for the role that you just created. You use that value when you use the COPY command to load data in Step 6: Load Sample Data from Amazon S3.
+
+Now that you have created the new role, your next step is to attach it to your cluster. You can attach the role when you launch a new cluster or you can attach it to an existing cluster. In the next step, you attach the role to a new cluster. 		
+
+```
 # DataModel under dev database 
 
    	Cluster: Choose examplecluster
