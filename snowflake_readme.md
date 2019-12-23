@@ -9,10 +9,7 @@
 # SnoFlake sql scripts
   ```  
    create database snowflake_db;
-   
-   
-
-``` 
+ ``` 
 
 # Data Loading :
    ```
@@ -81,5 +78,48 @@ https://github.com/snowflakedb/snowflake-sqlalchemy
 
 https://www.youtube.com/watch?v=QMeYjd2A0Nc
 
+
+# Github Reference URL :
+	https://github.com/karthikeyan9475/spark-snowflake-connector
+#  Spark With SnowFlake:
+
+```
+import org.apache.spark.sql.DataFrame
+
+
+// Use secret manager to get snowflake user name and password
+val user = dbutils.secrets.get("<scope>", "<username key>")
+val password = dbutils.secrets.get("<scope>", "<password key>")
+
+// snowflake connection options
+val options = Map("sfUrl" -> "<URL for your Snowflake account>",
+                  "sfUser" -> user,
+                  "sfPassword" -> password,
+                  "sfDatabase" -> "<The database to use for the session after connecting>",
+                  "sfSchema" -> "<The schema to use for the session after connecting>",
+                  "sfWarehouse" -> "<The default virtual warehouse to use for the session after connecting>")
+				  
+				  
+				  
+// Read the data written by the previous cell back.
+val df: DataFrame = spark.read
+  .format("snowflake")
+  .options(options)
+  .option("dbtable", "<The name of the table to be read>")
+  .load()
+
+display(df)
+
+
+
+// Generate a simple dataset containing five values and write the dataset to Snowflake.
+spark.range(5).write
+  .format("snowflake")
+  .options(options)
+  .option("dbtable", "<The table to which data is written>")
+  .save()
+  
+
+```
 
 
