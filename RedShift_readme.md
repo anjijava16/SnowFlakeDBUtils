@@ -4,6 +4,10 @@
 
 # RedShift Documenations :
   https://docs.aws.amazon.com/redshift/latest/gsg/getting-started.html
+  https://www.sqlbot.co/blog/aws-redshift-what-is-it-15-minute-tutorial-explanation
+  
+  
+  
 
 # Reference Data (S3 Load)
   https://docs.aws.amazon.com/redshift/latest/gsg/samples/tickitdb.zip
