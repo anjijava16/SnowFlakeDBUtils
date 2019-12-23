@@ -8,6 +8,14 @@
 # Reference Data (S3 Load)
   https://docs.aws.amazon.com/redshift/latest/gsg/samples/tickitdb.zip
   
+# How to connect Redshift Database :
+  	i) .Connect directly using Using the Query Editor in Amazon GUI Console 
+	ii) .To Install SQL Workbench/
+		Driver: com.amazon.redshift.jdbc41.Driver
+		URL: jdbc:redshift://exampleCluster.anc.us-west-2.redshift.amazonws.com:5439/dev
+		PORT: 5439
+		DB: dev
+		Jar file Name: RedShiftJDBC541.jar 
 # DataModel under dev database 
 
    	Cluster: Choose examplecluster
