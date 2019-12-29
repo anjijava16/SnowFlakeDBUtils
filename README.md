@@ -83,3 +83,8 @@ https://www.youtube.com/watch?v=QMeYjd2A0Nc
 
 
 
+# Snowflake Integration with Databricks:
+https://databricks.com/blog/2018/08/27/by-customer-demand-databricks-and-snowflake-integration.html
+https://docs.databricks.com/data/data-sources/snowflake.html
+https://docs.databricks.com/_static/notebooks/snowflake-scala.html
+
