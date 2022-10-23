@@ -1,6 +1,7 @@
 # Data Pipelins
 1. https://docs.snowflake.com/en/user-guide/data-pipelines-intro.html
-2.https://docs.snowflake.com/en/sql-reference/sql/create-stream.html
+
+3.https://docs.snowflake.com/en/sql-reference/sql/create-stream.html
 
 
 
