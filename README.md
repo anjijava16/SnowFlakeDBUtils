@@ -88,3 +88,6 @@ https://databricks.com/blog/2018/08/27/by-customer-demand-databricks-and-snowfla
 https://docs.databricks.com/data/data-sources/snowflake.html
 https://docs.databricks.com/_static/notebooks/snowflake-scala.html
 
+
+# Course Links
+1. https://www.udemy.com/course/data-warehousing-snowflake-aws-cloud/
