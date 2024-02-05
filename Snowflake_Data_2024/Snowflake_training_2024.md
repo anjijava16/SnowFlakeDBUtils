@@ -1,0 +1,2 @@
+# Day1 Lab
+1. https://quickstarts.snowflake.com/guide/tasty_bytes_introduction/?mkt_tok=MjUyLVJGTy0yMjcAAAGRBrswu2TP4TeBXg0H2VpAJRl4wwznLSRULjPIHP30qe5-bEmVaD6BO6d632VbPTEbsNlv3rqx6gz2XsOl0hYUXsFkCVf98_IdjqvH3q80DFaDxXwW2w#0
