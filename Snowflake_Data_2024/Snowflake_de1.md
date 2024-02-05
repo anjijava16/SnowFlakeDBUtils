@@ -16,4 +16,18 @@ Orc
 <img width="1728" alt="image" src="https://github.com/anjijava16/SnowFlakeDBUtils_RedShiftUtils/assets/5849522/eb20b08f-c809-4a95-8d92-38c75de118e7">
 
 
+1. ETL & ELT
+2. Martking Analatyics & Reporting /BI
+3. Data Science (Alteryx,DataRobost,dataIku,AWS sagemaker,Domino,H20AI)
+4. Data Transform
+5. Integellgent IN
+
+# Compute
+XS  
+S
+M
+L
+XL
+2Xl
+3XL
 
