@@ -13,4 +13,7 @@ Orc
 
 <img width="1728" alt="image" src="https://github.com/anjijava16/SnowFlakeDBUtils_RedShiftUtils/assets/5849522/04f3d871-c3ff-4181-b9d2-42075399fc8d">
 
+<img width="1728" alt="image" src="https://github.com/anjijava16/SnowFlakeDBUtils_RedShiftUtils/assets/5849522/eb20b08f-c809-4a95-8d92-38c75de118e7">
+
+
 
