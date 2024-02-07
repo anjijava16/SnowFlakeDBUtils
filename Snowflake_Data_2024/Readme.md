@@ -17,3 +17,14 @@
 1. Day01: https://www.youtube.com/watch?v=iVk1X4vNo-c
 2. Day02 : https://www.youtube.com/watch?v=pIthzuQbMyM
 3. Day03 : https://www.youtube.com/watch?v=55BJUaXzS4Y
+
+
+# Data Ingestion
+1. Bulk Loading (Copy)
+   *. Copy Command
+   *. User _managed compute Resource
+2. Serverless Loading (Snowpipe) OR Continuous Loading 
+  *.   Snowflake Managed Compute
+  *.   Kafka Connector
+
+   ![image](https://github.com/anjijava16/SnowFlakeDBUtils_RedShiftUtils/assets/5849522/292f52ef-34ba-4600-959c-2c9bb91a338a)
