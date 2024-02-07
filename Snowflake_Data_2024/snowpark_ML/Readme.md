@@ -11,3 +11,6 @@
 
 <img width="904" alt="image" src="https://github.com/anjijava16/SnowFlakeDBUtils_RedShiftUtils/assets/5849522/3f49b672-ef02-4432-9f2c-9f556e132f8b">
 
+# Snowpark +Azure ML
+1. https://github.com/Snowflake-Labs/sfguide-getting-started-with-snowpark-for-machine-learning-on-azureml/blob/main/1_mfr_mlflow.ipynb
+
