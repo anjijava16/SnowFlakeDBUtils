@@ -21,10 +21,16 @@
 
 # Data Ingestion
 1. Bulk Loading (Copy)
+
    *. Copy Command
+   
    *. User _managed compute Resource
-2. Serverless Loading (Snowpipe) OR Continuous Loading 
-  *.   Snowflake Managed Compute
+
+   
+3. Serverless Loading (Snowpipe) OR Continuous Loading 
+
+   *.   Snowflake Managed Compute
+   
   *.   Kafka Connector
 
    ![image](https://github.com/anjijava16/SnowFlakeDBUtils_RedShiftUtils/assets/5849522/292f52ef-34ba-4600-959c-2c9bb91a338a)
