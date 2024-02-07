@@ -52,3 +52,5 @@
 
 
 # Data Transform 
+1. ![image](https://github.com/anjijava16/SnowFlakeDBUtils_RedShiftUtils/assets/5849522/88f5f167-3933-4f05-a0cb-02351c67af15)
+
