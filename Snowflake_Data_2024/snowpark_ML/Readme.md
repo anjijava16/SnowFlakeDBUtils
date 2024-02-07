@@ -21,3 +21,6 @@
 
 3. https://github.com/Snowflake-Labs/sfguide-tasty-bytes-snowpark-101-for-data-science/blob/main/tasty_bytes_snowpark_101.ipynb
 
+# Snowflake Credit card approval
+1. https://github.com/Snowflake-Labs/sfguide-getting-started-machine-learning/tree/main?tab=readme-ov-file
+
