@@ -20,6 +20,7 @@
 
 
 # Data Ingestion
+
 1. Bulk Loading (Copy)
 
    *. Copy Command
@@ -35,3 +36,10 @@
 
 
    ![image](https://github.com/anjijava16/SnowFlakeDBUtils_RedShiftUtils/assets/5849522/292f52ef-34ba-4600-959c-2c9bb91a338a)
+
+4. Snowpipe Streaming
+
+   ![image](https://github.com/anjijava16/SnowFlakeDBUtils_RedShiftUtils/assets/5849522/c242626b-7fec-4aae-a1ce-d6eb3d9b02ad)
+
+
+# Data Transform 
