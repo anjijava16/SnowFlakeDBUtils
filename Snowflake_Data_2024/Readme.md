@@ -41,7 +41,11 @@
 
    ![image](https://github.com/anjijava16/SnowFlakeDBUtils_RedShiftUtils/assets/5849522/1216c912-695a-4672-9677-388c157c111b)
 
-5. Schema Detection & Evolution
+5. Data Sharing  Fewer Pipelines
+      ![image](https://github.com/anjijava16/SnowFlakeDBUtils_RedShiftUtils/assets/5849522/62cec2ef-662c-4f72-8ba5-49ae4d8d7102)
+
+
+6. Schema Detection & Evolution
    ![image](https://github.com/anjijava16/SnowFlakeDBUtils_RedShiftUtils/assets/5849522/2e2c2701-b755-4647-a9d8-f9b346473fc9)
 
 
