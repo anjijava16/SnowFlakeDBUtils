@@ -1,5 +1,5 @@
 
-![Uploading image.png…]()
+<img width="1728" alt="image" src="https://github.com/anjijava16/SnowFlakeDBUtils_RedShiftUtils/assets/5849522/760d2391-7aa8-4867-b1dd-27929ab218a8">
 
 
 
