@@ -1,0 +1,4 @@
+
+# What is snowpark?
+Set of Libraries and runtimes in snowflake that securely deploy and process non-SQL code to develop data pipeliens ,Machine Learning models ,apps and more
+![image](https://github.com/anjijava16/SnowFlakeDBUtils_RedShiftUtils/assets/5849522/94d2a564-cf8e-4d9b-ba1f-10b9d7eee249)
