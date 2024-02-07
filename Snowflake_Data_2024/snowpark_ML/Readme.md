@@ -19,3 +19,5 @@
 
 2. <img width="834" alt="image" src="https://github.com/anjijava16/SnowFlakeDBUtils_RedShiftUtils/assets/5849522/50aac244-4934-41ac-9884-4e136cddcbbb">
 
+3. https://github.com/Snowflake-Labs/sfguide-tasty-bytes-snowpark-101-for-data-science/blob/main/tasty_bytes_snowpark_101.ipynb
+
