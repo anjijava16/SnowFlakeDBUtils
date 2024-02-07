@@ -16,3 +16,6 @@
 
 # Snowpark +Snowflake ML
 1. https://quickstarts.snowflake.com/guide/intro_to_machine_learning_with_snowpark_ml_for_python/index.html?index=..%2F..index#0
+
+2. <img width="834" alt="image" src="https://github.com/anjijava16/SnowFlakeDBUtils_RedShiftUtils/assets/5849522/50aac244-4934-41ac-9884-4e136cddcbbb">
+
