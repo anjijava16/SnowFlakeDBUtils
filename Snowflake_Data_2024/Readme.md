@@ -61,5 +61,8 @@
 ![image](https://github.com/anjijava16/SnowFlakeDBUtils_RedShiftUtils/assets/5849522/b9ef3586-665c-489e-8133-76f49da38c3f)
 
 
+![image](https://github.com/anjijava16/SnowFlakeDBUtils_RedShiftUtils/assets/5849522/e5a6e6f2-95f2-4e04-a415-3b1d59289b3f)
+
+
 ![image](https://github.com/anjijava16/SnowFlakeDBUtils_RedShiftUtils/assets/5849522/cdbf9909-46fe-4a56-8a56-40f170c68661)
 
