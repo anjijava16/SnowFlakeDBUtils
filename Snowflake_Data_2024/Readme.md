@@ -31,6 +31,7 @@
 
    *.   Snowflake Managed Compute
    
-  *.   Kafka Connector
+   *.   Kafka Connector
+
 
    ![image](https://github.com/anjijava16/SnowFlakeDBUtils_RedShiftUtils/assets/5849522/292f52ef-34ba-4600-959c-2c9bb91a338a)
