@@ -52,5 +52,9 @@
 
 
 # Data Transform 
+1. Snowpark
+2. Dynamic Tables (Declartive approach to transfromation and simple data pipeline creation)
+   
 1. ![image](https://github.com/anjijava16/SnowFlakeDBUtils_RedShiftUtils/assets/5849522/88f5f167-3933-4f05-a0cb-02351c67af15)
 
+![image](https://github.com/anjijava16/SnowFlakeDBUtils_RedShiftUtils/assets/5849522/b9ef3586-665c-489e-8133-76f49da38c3f)
