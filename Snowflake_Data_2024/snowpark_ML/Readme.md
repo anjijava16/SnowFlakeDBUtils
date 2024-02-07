@@ -14,3 +14,5 @@
 # Snowpark +Azure ML
 1. https://github.com/Snowflake-Labs/sfguide-getting-started-with-snowpark-for-machine-learning-on-azureml/blob/main/1_mfr_mlflow.ipynb
 
+# Snowpark +Snowflake ML
+1. https://quickstarts.snowflake.com/guide/intro_to_machine_learning_with_snowpark_ml_for_python/index.html?index=..%2F..index#0
