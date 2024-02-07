@@ -39,7 +39,8 @@
 
 4. Snowpipe Streaming
 
-   ![image](https://github.com/anjijava16/SnowFlakeDBUtils_RedShiftUtils/assets/5849522/c242626b-7fec-4aae-a1ce-d6eb3d9b02ad)
+   ![image](https://github.com/anjijava16/SnowFlakeDBUtils_RedShiftUtils/assets/5849522/1216c912-695a-4672-9677-388c157c111b)
+
 
 
 # Data Transform 
