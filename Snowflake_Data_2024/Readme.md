@@ -17,6 +17,7 @@
 1. Day01: https://www.youtube.com/watch?v=iVk1X4vNo-c
 2. Day02 : https://www.youtube.com/watch?v=pIthzuQbMyM
 3. Day03 : https://www.youtube.com/watch?v=55BJUaXzS4Y
+4. Day04 : https://www.youtube.com/watch?v=YjJe63jhiI4
 
 
 # Data Ingestion
